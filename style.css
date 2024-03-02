@@ -1,0 +1,19 @@
+body {
+    font-family: 'Gill Sans', sans-serif;
+    padding: 4px 24px;
+}
+
+h1 {
+    color: seagreen;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+#message {
+    background-color: seagreen;
+    padding: 8px 10px;
+    color: white;
+    border-radius: 4px;
+}
